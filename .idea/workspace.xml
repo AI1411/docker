@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0a5ab220-d97b-4c43-a005-043aa2131b61" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +85,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578964779243</updated>
-      <workItem from="1578964783368" duration="3893000" />
+      <workItem from="1578964783368" duration="4677000" />
     </task>
     <servers />
   </component>
@@ -92,6 +93,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="814" y="250" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578970126509">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="814" y="250" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1578970126509" />
     <state x="443" y="99" key="SettingsEditor" timestamp="1578964876548">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
