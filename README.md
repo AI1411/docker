@@ -7,15 +7,21 @@
 
 - mysql    5.7
 
+## 構築手順
+
+ターミナル,windowsの場合gitbashを導入
+
 ```bash
+#任意のディレクトリで
+$ git clone https://github.com/AI1411/docker.git
+
+$ cd docker
+
 $ docker-compose up -d --build
-```
 
-```bash
+#ワークスペースに入る
 $ docker-compose exec app ash
-```
 
-```bash
 $ composer install
 
 $ cp .env.example .env
