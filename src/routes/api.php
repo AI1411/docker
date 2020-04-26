@@ -16,3 +16,8 @@ Route::group([
     Route::post('me', 'AuthController@me');
     Route::post('signup', 'AuthController@signup');
 });
+
+Route::get('/regions', 'PlaceController@regions');
+Route::get('/prefs', 'PlaceController@prefs');
+Route::get('/pref/{pref}', 'PlaceController@pref');
+Route::get('/cities', 'PlaceController@cities');
