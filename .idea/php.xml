@@ -43,7 +43,6 @@
       <path value="$PROJECT_DIR$/src/vendor/psr/simple-cache" />
       <path value="$PROJECT_DIR$/src/vendor/league/flysystem" />
       <path value="$PROJECT_DIR$/src/vendor/league/commonmark" />
-      <path value="$PROJECT_DIR$/src/vendor/league/commonmark-ext-table" />
       <path value="$PROJECT_DIR$/src/vendor/laravel/framework" />
       <path value="$PROJECT_DIR$/src/vendor/jakub-onderka/php-console-highlighter" />
       <path value="$PROJECT_DIR$/src/vendor/jakub-onderka/php-console-color" />
@@ -89,7 +88,26 @@
       <path value="$PROJECT_DIR$/src/vendor/phar-io/manifest" />
       <path value="$PROJECT_DIR$/src/vendor/phpunit/phpunit" />
       <path value="$PROJECT_DIR$/src/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/src/vendor/barryvdh/laravel-debugbar" />
+      <path value="$PROJECT_DIR$/src/vendor/maximebf/debugbar" />
+      <path value="$PROJECT_DIR$/src/vendor/tymon/jwt-auth" />
+      <path value="$PROJECT_DIR$/src/vendor/namshi/jose" />
+      <path value="$PROJECT_DIR$/src/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/src/vendor/lcobucci/jwt" />
+      <path value="$PROJECT_DIR$/src/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/src/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/src/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/src/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/src/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/src/vendor/ralouphie/getallheaders" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.2" />
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings custom_loader_path="$PROJECT_DIR$/src/vendor/autoload.php" />
+    </phpunit_settings>
+  </component>
 </project>

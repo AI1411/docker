@@ -16,6 +16,9 @@ $ cp .env.example .env
 $ php artisan key:generate
 
 $ php artisan migrate 
+
+#mysqlに接続
+$ docker-compose exec db bash -c 'mysql -u${MYSQL_USER} -p${MYSQL_PASSWORD} ${MYSQL_DATABASE}'
 ```
 
 DB PORT 13306
